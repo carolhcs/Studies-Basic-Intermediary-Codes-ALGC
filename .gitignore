@@ -492,3 +492,4 @@ gen-external-apklibs
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,python,ruby,csharp,android
+/Java/JavaAulasIniciante01/nbproject/private/
