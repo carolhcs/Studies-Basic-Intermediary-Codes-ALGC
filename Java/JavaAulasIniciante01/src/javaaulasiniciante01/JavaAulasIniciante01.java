@@ -47,7 +47,7 @@ public class JavaAulasIniciante01 {
         System.out.println("Restos: " +amount);*/
         
         //Aula 03 ATM
-        int originalAmount = 2356;
+       /* int originalAmount = 2356;
         int amount = originalAmount;
 
         System.out.println("Dividindo R$ " + originalAmount + " em notas de R$ 100, " + " R$ 50,  R$ 20,  R$ 10,  R$ 5,  R$ 2,  R$ 1, ");
@@ -60,7 +60,25 @@ public class JavaAulasIniciante01 {
             numberOfBills[i] = amount / billValues[i];
             amount %= billValues[i];
             System.out.println("Notas de R$ " + billValues[i] + ": " + numberOfBills[i]);
-        }
+        }*/
+       
+       //Aula 04
+       /*int diaDaSemana = 5;
+       String nomeDoDia;
+       switch (diaDaSemana) {
+           case 1: nomeDoDia = "Domingo"; break;
+           case 2: nomeDoDia = "Segunda"; break;
+           case 3: nomeDoDia = "Terça"; break;
+           case 4: nomeDoDia = "Quarta"; break;
+           case 5: nomeDoDia = "Quinta"; break;
+           case 6: nomeDoDia = "Sexta"; break;
+           case 7: nomeDoDia = "Sabado"; break;
+           default: nomeDoDia = "Valor Invalido";break;
+       }
+       System.out.println(nomeDoDia);*/
+       
+       //Aula 05
+       
     }
     
 }
